@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/laravel-accessor-mutator-demo.git
+    git clone https://github.com/nikhilmusale7816/laravel-accessor-mutator-demo.git
     ```
 
 2. Navigate to the project directory:
